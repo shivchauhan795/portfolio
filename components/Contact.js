@@ -4,7 +4,7 @@ const Contact = () => {
     return (
         <div className='flex flex-col p-24' id='contact'>
             <div className='projects uppercase text-4xl'>
-                Let's Connect
+                Let&#39;s Connect
             </div>
             <div className='flex flex-col mt-16 '>
                 <h2>Say Hello at <a className='hover:font-bold transition-all' href="https://mail.google.com/mail/?view=cm&fs=1&to=shivchauhan.contact@gmail.com" target='_blank'>shivchauhan.contact@gmail.com</a></h2>
